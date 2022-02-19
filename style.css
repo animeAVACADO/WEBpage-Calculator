@@ -1,0 +1,31 @@
+.hl{
+border: solid 3px blue;
+
+}
+body {
+color:white;
+  background-color:#C5CAE9;
+  text-align: center;
+}
+.ibox {
+width: 200px;
+background-color:#A5D6A7;
+  color:white;
+margin-left: 20px;
+}
+.btn1{
+  background-color:#FF8A80;
+  color:white;
+}
+.btn2{
+  background-color:#B388FF;
+  color:white;
+}
+.btn3{
+  background-color:#8C9EFF;
+  color:white;
+}
+.btn4{
+  background-color:#FFE57F;
+  color:white;
+}
